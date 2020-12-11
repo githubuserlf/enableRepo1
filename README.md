@@ -1,3 +1,3 @@
 # enableRepo1
 test by owner
-test by custom user
+keep it simple
